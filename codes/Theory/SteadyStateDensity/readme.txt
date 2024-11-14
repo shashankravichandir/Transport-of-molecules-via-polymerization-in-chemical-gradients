@@ -1,0 +1,1 @@
+This repository contains all the matlab scripts to numerically evaluate the theoretical predictions for the steady state densities for different polymers. The main files are "GenerateDensityData.m" and "GenerateStateDiagramData.m", and the rest are function files.

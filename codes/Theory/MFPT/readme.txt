@@ -1,0 +1,1 @@
+This repository contains all the matlab scripts to numerically evaluate the theoretical predictions for the mean first passage time for different polymers. The main file is "mfpt.m" and the rest are function files.
